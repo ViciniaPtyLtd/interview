@@ -44,9 +44,8 @@ At the conclusion of either project, candidates will be expected to:
 
 1. Provide an estimate of time for completion
 2. Share the complete project code 
-3. Capture screenshots of the completed UI 
-4. Record a short video demonstrating UI functionality 
-5. Submit a README file providing instructions to run the application
+3. Record a short video demonstrating UI functionality 
+4. Submit a README file providing instructions to run the application
 
 Submissions are to be made via shared GitHub links or zipped files. 
 
