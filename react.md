@@ -22,9 +22,8 @@ Your submission should include:
 
 1. The estimated time to complete the project.
 2. The ReactJS code of the project developed.
-3. Screenshots of the developed UI.
-4. A short video demonstrating the working of the UI. This can be uploaded on any cloud storage and then shared with us.
-5. A Readme file.
+3. A short video demonstrating the working of the UI. This can be uploaded on any cloud storage and then shared with us.
+4. A Readme file.
 
 At the end of this project, please submit a Github link or zip file that includes all the above materials.
 
