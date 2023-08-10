@@ -20,6 +20,8 @@ For Flutter candidates, the objective will involve:
 - Applying meaningful naming conventions for variables, classes, and functions
 - Documenting a clear, comprehensive README file
 
+[Details](flutter.md)
+
 ---
 
 ## React Test Project
@@ -31,6 +33,8 @@ For React candidates, the objectives will involve:
 - Constructing UI components using ReactJS and Antd v5
 - Applying meaningful naming conventions for variables, functions, and component names
 - Documenting a clear, comprehensive README file
+
+[Details](react.md)
 
 ---
 
