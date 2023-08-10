@@ -28,9 +28,8 @@ The final version should include:
 
 1. The estimated time to accomplish the project.
 2. The Flutter app code that meets the criteria (accessible from the web, iOS, and Android).
-3. Screenshots of the final UI across different platforms (web, mobile: iOS, and Android).
-4. A short video demonstrating the working of the UI. This can be uploaded on any cloud storage and then shared with us.
-5. Readme file.
+3. A short video demonstrating the working of the UI. This can be uploaded on any cloud storage and then shared with us.
+4. Readme file.
 
 At the conclusion of this project, you'll submit a Github link or zip with everything listed above.
 
