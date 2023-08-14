@@ -6,7 +6,7 @@ This project is designed to evaluate your commitment, understanding, and skills 
 
 ## Figma Prototype
 
-You will be asked to code the UI based on the following Figma prototype: [The prototype link attached here](https://www.figma.com/file/72oA2Ve9SgvnxX2RPGrS1q/%5BHalmet%5D-Admin-Website---Exte[…]=design&node-id=3449%3A182963&mode=design&t=qCy3MUoNYFU3WQQV-1)
+You will be asked to code the UI based on the following Figma prototype: [The prototype link attached here](https://www.figma.com/file/Y2YP9DayfSKCOFuomjjP1V/Dev-Test?type=design&node-id=0%3A1&mode=design&t=w1ikpWQjKoq0NUwm-1)
 
 ## Tasks
 
