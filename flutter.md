@@ -12,7 +12,7 @@ Instead of the back-end, you'll use either a mock server of your choice or simpl
 
 ## Figma Prototype
 
-You will be asked to code the UI based on the following Figma prototype: [The prototype link attached here](https://www.figma.com/file/Y2YP9DayfSKCOFuomjjP1V/Dev-Test?type=design&node-id=0%3A1&mode=design&t=w1ikpWQjKoq0NUwm-1)
+You will be asked to code the UI based on the following Figma prototype: https://www.figma.com/file/Y2YP9DayfSKCOFuomjjP1V/Dev-Test?type=design&node-id=0%3A1&mode=design&t=w1ikpWQjKoq0NUwm-1
 
 ## Tasks
 
