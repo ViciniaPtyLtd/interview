@@ -1,12 +1,10 @@
 # Backend Developer Coding Test
 
-**Project: Co-working Space Management System**
-
 ---
 
 ## Background
 
-Our system utilizes Node.js, Express, Redis, Bull queue, PostgreSQL, and Hasura. In this particular test scenario, we're working with a `workspace_id` serving as a means of segregating data within our tables.
+Our system utilizes Node.js, Redis, Bull queue and PostgreSQL. In this particular test scenario, we're working with a `workspace_id` serving as a means of segregating data within our tables.
 
 Now, we're aspiring to integrate our system with Xero API to fetch contacts. However, keep in mind the rate limit for Xero’s API, which is 60 requests per minute.
 
@@ -62,4 +60,10 @@ Before proceeding with fetching and storing contacts from Xero API, follow these
 8. Start your development!
 
 Please follow Xero's API rate limit for the scope of your application.
+
+## References
+
+- Xero API documentation (https://developer.xero.com/documentation/api/accounting/contacts)
+- Bull queue documentation (https://docs.bullmq.io/)
+
 
