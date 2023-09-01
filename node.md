@@ -38,6 +38,18 @@ To mimic a scenario with logical segregation, your solution should:
 - Ensure that only the contacts relevant to the specified `workspace_id` are fetched.
 - Safeguard that the fetched data is stored in PostgreSQL, properly associated with the corresponding `workspace_id`.
 
+## Onjectives
+
+1. **Understanding of RESTful APIs and Server-Client Interaction**: Assess the candidate's knowledge of designing, integrating, and interacting with RESTful APIs. Can they successfully integrate the Xero API into the existing service, and do they properly handle API rate limiting?
+  
+2. **Performance Optimization**: Evaluate the candidate's skills in optimizing performance in a high-traffic environment. Are they able to create a request queue and properly implement rate limiting to maximize throughput while avoiding overloading the Xero API?
+
+3. **Error Handling and Reliability**: Check the candidate's ability to design reliable backend systems and their approach to handling errors, especially around third-party services. Are they considering potential issues that might occur when integrating with Xero's API?
+
+4. **Data Modeling and Management**: Determine the candidate's understanding of database design and data management in a project that hypothetically involves logical data segregation based on `workspace_id`. Do they comprehend how to design the required database schema and handle database interactions?
+
+5. **Documentation and Code Readability**: Assess the candidate's capability to write clean, efficient, and readable code. Do they provide an organized `README.md` explaining their design, decisions, and code? It's important to evaluate if the candidate is able to document the process and ensure future maintainability of the code.
+
 ## Expected Deliverables
 
 - Code written to fetch contacts from Xero API.
